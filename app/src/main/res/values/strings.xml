@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الرسائل</string>
+    <string name="xposed_description">Risala — glass-style enhancements and privacy tools for Google Messages (root/LSPosed).</string>
+
+    <!-- ===== Settings screen ===== -->
+    <string name="section_privacy">Privacy &amp; Security</string>
+    <string name="section_messaging">Messaging</string>
+    <string name="section_system">System &amp; SIM</string>
+    <string name="section_backup">Backup &amp; Export</string>
+
+    <string name="feat_vault_title">Hidden vault</string>
+    <string name="feat_vault_desc">Move conversations into a biometric-locked private space.</string>
+
+    <string name="feat_block_readers_title">Block apps from reading SMS</string>
+    <string name="feat_block_readers_desc">Deny other apps access to your message database.</string>
+
+    <string name="feat_silent_sms_title">Silent-SMS detection</string>
+    <string name="feat_silent_sms_desc">Detect and alert on stealth (type-0) tracking messages.</string>
+
+    <string name="feat_reader_log_title">SMS access log</string>
+    <string name="feat_reader_log_desc">Record which apps read or received your messages.</string>
+
+    <string name="feat_otp_copy_title">Auto-copy verification codes</string>
+    <string name="feat_otp_copy_desc">Copy OTP codes to the clipboard the moment they arrive.</string>
+
+    <string name="feat_otp_wipe_title">Auto-delete codes</string>
+    <string name="feat_otp_wipe_desc">Remove OTP messages a few minutes after they arrive.</string>
+
+    <string name="feat_spam_filter_title">Separate banks &amp; promotions</string>
+    <string name="feat_spam_filter_desc">Sort service, OTP and promotional messages into their own tabs.</string>
+
+    <string name="feat_labels_title">Custom number labels</string>
+    <string name="feat_labels_desc">Give any number a clear name of your own (shown as a label).</string>
+
+    <string name="feat_schedule_title">Reliable scheduled send</string>
+    <string name="feat_schedule_desc">Send later via a system alarm that survives app kills and reboots.</string>
+
+    <string name="feat_quick_reply_title">Reply from notification</string>
+    <string name="feat_quick_reply_desc">Reply, mark read and delete without opening the app.</string>
+
+    <string name="feat_radio_block_title">Radio-level block</string>
+    <string name="feat_radio_block_desc">Drop messages and calls from a number before they are logged.</string>
+
+    <string name="feat_dual_sim_title">Per-conversation SIM</string>
+    <string name="feat_dual_sim_desc">Pin each conversation to a SIM and remember the choice.</string>
+
+    <string name="feat_smsc_title">Message centre (SMSC)</string>
+    <string name="feat_smsc_desc">View and set the SMSC number per SIM.</string>
+
+    <string name="feat_sim_watch_title">SIM / IMEI change watch</string>
+    <string name="feat_sim_watch_desc">Alert when the SIM or device identity changes.</string>
+
+    <string name="feat_backup_title">Full backup &amp; restore</string>
+    <string name="feat_backup_desc">Complete SMS/MMS backup, including attachments.</string>
+
+    <string name="feat_export_title">Readable export</string>
+    <string name="feat_export_desc">Export conversations to HTML, JSON or PDF.</string>
+
+    <string name="feat_recover_title">Recover deleted messages</string>
+    <string name="feat_recover_desc">Scan the database for recoverable deleted rows (best-effort).</string>
+
+    <!-- ===== Vault ===== -->
+    <string name="vault_locked">Vault locked</string>
+    <string name="vault_unlock">Unlock with biometrics</string>
+    <string name="vault_empty">No hidden conversations yet.</string>
+</resources>

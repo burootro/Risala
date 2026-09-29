@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- LSPosed scope: the packages this module is allowed to hook. -->
+    <string-array name="xposed_scope">
+        <item>com.google.android.apps.messaging</item>
+        <item>android</item>
+        <item>com.android.phone</item>
+    </string-array>
+</resources>

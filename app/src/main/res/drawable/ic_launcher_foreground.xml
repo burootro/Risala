@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A gold speech-bubble glyph centred in the adaptive-icon safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,32
+            C41,32 30,40 30,52
+            C30,58 33,63 38,67
+            L36,78
+            L48,72
+            C50,72.5 52,73 54,73
+            C67,73 78,64 78,52
+            C78,40 67,32 54,32 Z" />
+    <path
+        android:fillColor="#0B0B12"
+        android:pathData="M43,50 h22 v3 h-22 z
+            M43,57 h16 v3 h-16 z" />
+</vector>
